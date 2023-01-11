@@ -1,0 +1,6 @@
+namemovie: Thor: Love and Thunder
+time: 110
+cycle: 12:00-15:00
+room: R01
+seat: F1 F2 
+price: 400.0 THB
